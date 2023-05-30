@@ -180,7 +180,7 @@ main {
     cursor: pointer;
 }
 .redes{
-     margin: 750px 0 0 600px;
+     margin: 750px 0 0 650px;
      gap: 50px;
 }
 
@@ -198,3 +198,4 @@ main {
 .ocultar {
     display: none;
 }
+
